@@ -1,0 +1,1179 @@
+Using pre-set license
+Built from '6000.0/staging' branch; Version is '6000.0.23f1 (1c4764c07fb4) revision 1853284'; Using compiler version '193933523'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit Professional' Language: 'es' Physical Memory: 32560 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.0.23f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker5
+-projectPath
+E:/SENA/Prototipo/Balinera
+-logFile
+Logs/AssetImportWorker5.log
+-srvPort
+63729
+-job-worker-count
+5
+-background-job-worker-count
+8
+-asset-garbage-collectors
+1
+Successfully changed project path to: E:/SENA/Prototipo/Balinera
+E:/SENA/Prototipo/Balinera
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [17372]  Target information:
+
+Player connection [17372]  * "[IP] 192.168.1.5 [Port] 0 [Flags] 2 [Guid] 1533974716 [EditorId] 1533974716 [Version] 1048832 [Id] WindowsEditor(7,Andres) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [17372] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [17372] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 5
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 1.90 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.23f1 (1c4764c07fb4)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.0.23f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/SENA/Prototipo/Balinera/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2070 (ID=0x1f07)
+    Vendor:   NVIDIA
+    VRAM:     8006 MB
+    Driver:   32.0.15.6094
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.0.23f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.0.23f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.0.23f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56316
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.23f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.23f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Registered in 0.004182 seconds.
+- Loaded All Assemblies, in  0.586 seconds
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 345 ms
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.911 seconds
+Domain Reload Profiling: 1494ms
+	BeginReloadAssembly (205ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (51ms)
+	RebuildNativeTypeToScriptingClass (19ms)
+	initialDomainReloadingComplete (68ms)
+	LoadAllAssembliesAndSetupDomain (240ms)
+		LoadAssemblies (202ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (235ms)
+			TypeCache.Refresh (233ms)
+				TypeCache.ScanAssembly (217ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (911ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (835ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (474ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (11ms)
+			ProcessInitializeOnLoadAttributes (223ms)
+			ProcessInitializeOnLoadMethodAttributes (120ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.341 seconds
+Refreshing native plugins compatible for Editor in 0.85 ms, found 3 plugins.
+Native extension for Android target not found
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.407 seconds
+Domain Reload Profiling: 2747ms
+	BeginReloadAssembly (540ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (8ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (52ms)
+	RebuildCommonClasses (52ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (47ms)
+	LoadAllAssembliesAndSetupDomain (684ms)
+		LoadAssemblies (469ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (351ms)
+			TypeCache.Refresh (250ms)
+				TypeCache.ScanAssembly (226ms)
+			BuildScriptInfoCaches (85ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (1408ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1031ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (14ms)
+			SetLoadedEditorAssemblies (6ms)
+			BeforeProcessingInitializeOnLoad (74ms)
+			ProcessInitializeOnLoadAttributes (813ms)
+			ProcessInitializeOnLoadMethodAttributes (114ms)
+			AfterProcessingInitializeOnLoad (9ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.99 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 198 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5909 unused Assets / (4.8 MB). Loaded Objects now: 6678.
+Memory consumption went from 180.4 MB to 175.6 MB.
+Total: 13.070000 ms (FindLiveObjects: 0.897800 ms CreateObjectMapping: 0.898500 ms MarkObjects: 7.132200 ms  DeleteObjects: 4.139100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 25932.359346 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/log.fbx
+  artifactKey: Guid(a5755aa750957b748be2011dc8506c2f) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/log.fbx using Guid(a5755aa750957b748be2011dc8506c2f) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'd3457367b6b58b385fab6ae8e5f6b303') in 0.3300757 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/ground_riverStraight.fbx
+  artifactKey: Guid(11090fdc20c36624aac32d630ae9f936) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/ground_riverStraight.fbx using Guid(11090fdc20c36624aac32d630ae9f936) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '424b4a015e8ca399e90508aa9c7255b8') in 0.0264089 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/path_woodEnd.fbx
+  artifactKey: Guid(df70cc186842b564bb66a88b490a4dab) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/path_woodEnd.fbx using Guid(df70cc186842b564bb66a88b490a4dab) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '0eaf8e8b1a66d18843bd056c9ba04daa') in 0.0267218 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/mushroom_tanTall.fbx
+  artifactKey: Guid(23a5baaf93023b948a0fdc070e940192) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/mushroom_tanTall.fbx using Guid(23a5baaf93023b948a0fdc070e940192) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '8e0fcc8b60ce41fd48546a014781fca2') in 0.0154418 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/mushroom_tan.fbx
+  artifactKey: Guid(ad77f1e7e0cceee40b6c28b15f06f6b0) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/mushroom_tan.fbx using Guid(ad77f1e7e0cceee40b6c28b15f06f6b0) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '792c6c028c88aa84f531de36bef293da') in 0.0175613 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/path_stoneEnd.fbx
+  artifactKey: Guid(1194df5d66a3319409da5e2e40ce4518) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/path_stoneEnd.fbx using Guid(1194df5d66a3319409da5e2e40ce4518) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '859a54723629897b02b58b9c6d36af1b') in 0.0394119 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/platform_stone.fbx
+  artifactKey: Guid(afc63e0a083c04d4db23ba5ad06aefe8) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/platform_stone.fbx using Guid(afc63e0a083c04d4db23ba5ad06aefe8) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '6ac2b35bb050f6590d0536e916bf6961') in 0.0202839 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/platform_grass.fbx
+  artifactKey: Guid(013c9c64f4f454f4e860e43fd64bf444) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/platform_grass.fbx using Guid(013c9c64f4f454f4e860e43fd64bf444) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '42384707063306d4aaf3feecfb40cc05') in 0.0197142 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/ground_riverBendBank.fbx
+  artifactKey: Guid(cb67bd94b2f322148b5a1bd9b907f27d) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/ground_riverBendBank.fbx using Guid(cb67bd94b2f322148b5a1bd9b907f27d) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '0d3c13a1dbda00ff8d18c322f02598a7') in 0.0253172 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/cliff_cornerLarge_rock.fbx
+  artifactKey: Guid(0f98d38f7d1a4c9498ace4ea2d548409) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/cliff_cornerLarge_rock.fbx using Guid(0f98d38f7d1a4c9498ace4ea2d548409) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'dab195839ee18d69256652f2a6a7a915') in 0.016375 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/cliff_waterfallTop_rock.fbx
+  artifactKey: Guid(889503197fc20024896cfb4b910ea01b) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/cliff_waterfallTop_rock.fbx using Guid(889503197fc20024896cfb4b910ea01b) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '9d91ca86bf698b74ad1aa0fd0c717246') in 0.0340485 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Personajes/texturas/texturas santi/santi_santiMTL_Emission.png
+  artifactKey: Guid(a7ac8325074d2be4aa1755332a3d6c67) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Personajes/texturas/texturas santi/santi_santiMTL_Emission.png using Guid(a7ac8325074d2be4aa1755332a3d6c67) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'cf2b6e869a95c6a29ccde82b74d21c3e') in 0.0536861 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/rock_largeC.fbx
+  artifactKey: Guid(85eb5071f5f01ea42bef076375a43e57) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/rock_largeC.fbx using Guid(85eb5071f5f01ea42bef076375a43e57) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'b9c12b54d74306efb4720630c3f6cb3c') in 0.0204278 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/rock_tallA.fbx
+  artifactKey: Guid(1773ca189bc08a5489e349b657da942e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/rock_tallA.fbx using Guid(1773ca189bc08a5489e349b657da942e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '1dfb09cb13119ae2bc99e2a46a33e832') in 0.0186146 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/rock_tallC.fbx
+  artifactKey: Guid(ff17803ffc24b69448327633e2e958eb) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/rock_tallC.fbx using Guid(ff17803ffc24b69448327633e2e958eb) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '81acf67e51ff9a4706e94b2123d0280f') in 0.0235955 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/pot_large.fbx
+  artifactKey: Guid(23dfba4f870dbb24f8ad6d0c2628ec52) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/pot_large.fbx using Guid(23dfba4f870dbb24f8ad6d0c2628ec52) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '6fc46e6516fc3fae508ece1ddc68270e') in 0.0188708 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/rock_smallI.fbx
+  artifactKey: Guid(f0099658f79ad904f9f268a068bca29c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/rock_smallI.fbx using Guid(f0099658f79ad904f9f268a068bca29c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '99db5c30dff81fb295c142beae7eeaf6') in 0.0166835 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/rock_largeE.fbx
+  artifactKey: Guid(8d2ab4475c02b7a4fbb67bc630d2244a) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/rock_largeE.fbx using Guid(8d2ab4475c02b7a4fbb67bc630d2244a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '050b77a1dc75aec31f104d5769ada22d') in 0.0201081 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/rock_tallD.fbx
+  artifactKey: Guid(97452a4776251cd41bb462430d53ea95) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/rock_tallD.fbx using Guid(97452a4776251cd41bb462430d53ea95) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'f306d7b75df3d995a8ba757ce5c982d4') in 0.019386 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(99c9720ab356a0642a771bea13969a05) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Scenes/SampleScene.unity using Guid(99c9720ab356a0642a771bea13969a05) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '596bb35c6a30d5d0f212014e390f2d31') in 0.0057357 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/cliff_cornerInnerTop_rock.fbx
+  artifactKey: Guid(ec954d9c99621384883af76adad79ec9) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/cliff_cornerInnerTop_rock.fbx using Guid(ec954d9c99621384883af76adad79ec9) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '6092d5da8e3799e014fcad1c44cd0d1f') in 0.0159467 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/TutorialInfo/Layout.wlt
+  artifactKey: Guid(eabc9546105bf4accac1fd62a63e88e6) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/TutorialInfo/Layout.wlt using Guid(eabc9546105bf4accac1fd62a63e88e6) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'eaeaff7e0fcecb227fdfd37942d87ac5') in 0.0043816 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/stone_smallG.fbx
+  artifactKey: Guid(982909b57e676bb42ab50d452339364b) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/stone_smallG.fbx using Guid(982909b57e676bb42ab50d452339364b) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'd42e11135a861b220a059b0d36f4162d') in 0.0367511 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/stone_smallFlatC.fbx
+  artifactKey: Guid(48fc16f579f8f2a45b95b814cd0c252a) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/stone_smallFlatC.fbx using Guid(48fc16f579f8f2a45b95b814cd0c252a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '12a704b0c59913b85603d89713876265') in 0.0165371 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/statue_block.fbx
+  artifactKey: Guid(9a3316654038dc247a96485a72991fac) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/statue_block.fbx using Guid(9a3316654038dc247a96485a72991fac) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '4e32c66cc0689faeec143ba497ff9411') in 0.021858 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/stone_smallI.fbx
+  artifactKey: Guid(2e666f72010a3c045ab7f7b778fa5f6d) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/stone_smallI.fbx using Guid(2e666f72010a3c045ab7f7b778fa5f6d) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'f51aa2637ea4af2909fbf15cc8617bdc') in 0.0212176 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/stone_smallD.fbx
+  artifactKey: Guid(2b0f2f8416e4ca147993b7083982d99a) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/stone_smallD.fbx using Guid(2b0f2f8416e4ca147993b7083982d99a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '850cc12af6d5c665419cca047f6f66da') in 0.0151127 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/stone_smallB.fbx
+  artifactKey: Guid(f3df837ce2f1409429248efd6f2202d1) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/stone_smallB.fbx using Guid(f3df837ce2f1409429248efd6f2202d1) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c222581087dabdef72c1ce158fcf3599') in 0.0166172 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/stone_largeC.fbx
+  artifactKey: Guid(ee655b72924181f43b64d7da00c0b952) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/stone_largeC.fbx using Guid(ee655b72924181f43b64d7da00c0b952) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '51d2dd3d8c1a1bc0d9456bb649d12c98') in 0.0129351 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/rock_tallI.fbx
+  artifactKey: Guid(e1295b01154b6574da129b0dfcff8dc9) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/rock_tallI.fbx using Guid(e1295b01154b6574da129b0dfcff8dc9) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'b3e9af6afcf426bb007f6963aae6731a') in 0.0239454 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/rock_largeB.fbx
+  artifactKey: Guid(2eef8a09aa63f1f4fbdb3e4edb994998) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/rock_largeB.fbx using Guid(2eef8a09aa63f1f4fbdb3e4edb994998) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '9a7b86ad34a3c508713e4ae9e440cc5a') in 0.0197612 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/_Udemy Racer Assets/Materials/cP.mat
+  artifactKey: Guid(dd7e502d996e9a248acf623534ade2e6) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Materials/cP.mat using Guid(dd7e502d996e9a248acf623534ade2e6) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '414581ebe3c95406a167f697b01251f7') in 0.0076443 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/plant_bushDetailed.fbx
+  artifactKey: Guid(a3a1ba6763d68c949a24534e7909156b) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/plant_bushDetailed.fbx using Guid(a3a1ba6763d68c949a24534e7909156b) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '13a120a8dfd479e9a965a42d4d3ceed1') in 0.0161507 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/tree_cone.fbx
+  artifactKey: Guid(2d0404b0d4206454c87b305fd5e60ba7) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/tree_cone.fbx using Guid(2d0404b0d4206454c87b305fd5e60ba7) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'ac2a672ee0c75e96dae31d8000e753a0') in 0.0143762 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/stone_tallG.fbx
+  artifactKey: Guid(aee9ba0cef3d65042b4ccb18302bd3da) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/stone_tallG.fbx using Guid(aee9ba0cef3d65042b4ccb18302bd3da) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '3e63f18e386de6eb13eb2ccc27f7c101') in 0.0161246 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/tree_blocks.fbx
+  artifactKey: Guid(d5226f862030dd24eb0362e9bcafc5a4) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/tree_blocks.fbx using Guid(d5226f862030dd24eb0362e9bcafc5a4) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'd4c8ff019c0ed465c126915e9ba08069') in 0.0175369 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/stump_roundDetailed.fbx
+  artifactKey: Guid(7fff73a8d25b01c498159b4f9ac4d1df) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/stump_roundDetailed.fbx using Guid(7fff73a8d25b01c498159b4f9ac4d1df) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '7ac2819c9aa9f509770c9391b6d6bc93') in 0.0729008 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/stone_tallH.fbx
+  artifactKey: Guid(eb234cd4ac2590a4ebf867fe2ba23c22) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/stone_tallH.fbx using Guid(eb234cd4ac2590a4ebf867fe2ba23c22) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'ec1ad1814c65a5e89278ac2f87efdacc') in 0.0165505 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/tree_blocks_dark.fbx
+  artifactKey: Guid(5d06da494113b7d418862be19ed44eab) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/tree_blocks_dark.fbx using Guid(5d06da494113b7d418862be19ed44eab) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'e8adf4e81e7f442da3a04849ff48dabc') in 0.0137983 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/stone_tallA.fbx
+  artifactKey: Guid(a1db6a0b9d2ddf64e824d261223be459) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/stone_tallA.fbx using Guid(a1db6a0b9d2ddf64e824d261223be459) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'ac04e5ea07d20593f898ea47ad06add6') in 0.0171572 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/stump_squareDetailedWide.fbx
+  artifactKey: Guid(dd779dec793e30c40bf162b6ec785ba5) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/stump_squareDetailedWide.fbx using Guid(dd779dec793e30c40bf162b6ec785ba5) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'ce16c1e102dd043193f0cd7e3abc78a5') in 0.0180383 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/bridge_side_stoneRound.fbx
+  artifactKey: Guid(7dc95d2d14d69284bb9940fa51ccc181) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/bridge_side_stoneRound.fbx using Guid(7dc95d2d14d69284bb9940fa51ccc181) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'cdc5d1cc72c1c6b7f0c629a20e8e57f2') in 0.0142196 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Car Kit/wheelTractorDarkFront.fbx
+  artifactKey: Guid(3c49bafa570ef5a4eb88d8142410949f) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Car Kit/wheelTractorDarkFront.fbx using Guid(3c49bafa570ef5a4eb88d8142410949f) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '6544c6baf98bcb08869f3630b9a38dc9') in 0.0348663 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/rock_smallFlatC.fbx
+  artifactKey: Guid(2a715a616a7876f40b2656f4461a5356) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/rock_smallFlatC.fbx using Guid(2a715a616a7876f40b2656f4461a5356) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '79d774ad983e1c6f43923820af2785c9') in 0.0162535 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/fence_simpleCenter.fbx
+  artifactKey: Guid(78d955ab78682c14ba06c638988fc7f6) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/fence_simpleCenter.fbx using Guid(78d955ab78682c14ba06c638988fc7f6) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'a6a9c4d74589a6b26e323a13fd3d143b') in 0.0143069 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/stump_oldTall.fbx
+  artifactKey: Guid(020bdc3643159e44381a4a222605a4ba) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/stump_oldTall.fbx using Guid(020bdc3643159e44381a4a222605a4ba) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '6886943066f639a27387fd2cf93a0dec') in 0.0146381 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/crop_pumpkin.fbx
+  artifactKey: Guid(508092fc12a193e4ebfa1fb26548b3b6) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/crop_pumpkin.fbx using Guid(508092fc12a193e4ebfa1fb26548b3b6) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '23cf5b722403c7489a7ac324f86dc1a7') in 0.0221049 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Personajes/texturas/texturas santi/silla_sillaMTL_MetallicSmoothness.png
+  artifactKey: Guid(bb8a7f7d36d2717409df6f56481d2202) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Personajes/texturas/texturas santi/silla_sillaMTL_MetallicSmoothness.png using Guid(bb8a7f7d36d2717409df6f56481d2202) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '53af403296faf5126ee9882f9ca16c8c') in 0.0137283 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/ground_pathSplit.fbx
+  artifactKey: Guid(202a88dd90e4b074e9fca36ab53f43df) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/ground_pathSplit.fbx using Guid(202a88dd90e4b074e9fca36ab53f43df) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '1ebfb8e0768cffde55f23112c021d153') in 0.0170144 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/stone_tallE.fbx
+  artifactKey: Guid(0da40bfb06b9caf4290cfbeb3815865a) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/stone_tallE.fbx using Guid(0da40bfb06b9caf4290cfbeb3815865a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'f9cc3bf49e459148b409ddd629308cb6') in 0.0177376 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/ground_riverTile.fbx
+  artifactKey: Guid(a979fe05afbfbfd4c83e6e06d992eb16) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/ground_riverTile.fbx using Guid(a979fe05afbfbfd4c83e6e06d992eb16) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '76aee498f97f4df843f3ae965b6a0195') in 0.0180914 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000074 seconds.
+  path: Assets/_Udemy Racer Assets/Art/Car Preview/tractorShovel.png
+  artifactKey: Guid(f24294652102deb46964284487d27a7a) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Art/Car Preview/tractorShovel.png using Guid(f24294652102deb46964284487d27a7a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '4a6973ae23bca6219d226b8e00a43ced') in 0.0215057 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Settings/SampleSceneProfile.asset
+  artifactKey: Guid(10fc4df2da32a41aaa32d77bc913491c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Settings/SampleSceneProfile.asset using Guid(10fc4df2da32a41aaa32d77bc913491c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'd7de1f4c955873b4368c38be92a4e53c') in 0.011405 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/tree_fat_darkh.fbx
+  artifactKey: Guid(3f9e1321085e5324cade38c290d7dab7) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/tree_fat_darkh.fbx using Guid(3f9e1321085e5324cade38c290d7dab7) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c24171883752fe50a6de0f10e0028022') in 0.0184069 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/tree_plateau_fall.fbx
+  artifactKey: Guid(8dfde9c4fa1d2be48af430bd77d1b7f6) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/tree_plateau_fall.fbx using Guid(8dfde9c4fa1d2be48af430bd77d1b7f6) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'b4ab760f3ee05406b8756de498fd6fdc') in 0.0190259 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/tree_small.fbx
+  artifactKey: Guid(ae692e03252e44441931fbe389585b99) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/tree_small.fbx using Guid(ae692e03252e44441931fbe389585b99) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '743712a6ace247f86a4687a1bd92a08e') in 0.0205586 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/tree_oak.fbx
+  artifactKey: Guid(9c52cf3ecad9b9e45bf6833b0e4ac7d5) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/tree_oak.fbx using Guid(9c52cf3ecad9b9e45bf6833b0e4ac7d5) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'a1ba5a224eeb1f750653177a607754f5') in 0.0184989 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/tree_pineSmallA.fbx
+  artifactKey: Guid(f1493886262b2c847b1b171f904ec008) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/tree_pineSmallA.fbx using Guid(f1493886262b2c847b1b171f904ec008) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '51ea4522e4fe26f111982c76896e5d09') in 0.0159382 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/camera_exclusive.fbx
+  artifactKey: Guid(2876f4165054a0c4aa316b64df859800) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/camera_exclusive.fbx using Guid(2876f4165054a0c4aa316b64df859800) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'e5c4c6c70187c596ce6edf384fc734ee') in 0.0172832 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/bannerTowerRed.fbx
+  artifactKey: Guid(5adab2bf558161c46a8b673071388aa2) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/bannerTowerRed.fbx using Guid(5adab2bf558161c46a8b673071388aa2) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '692c586421b1f61d24939bb8285b0591') in 0.0193449 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/barrierWhite.fbx
+  artifactKey: Guid(f3ef4a70b5f23304e87f07f848ae8f46) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/barrierWhite.fbx using Guid(f3ef4a70b5f23304e87f07f848ae8f46) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '1026fa82f5ea061a4802bd2e70967078') in 0.0123081 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/tree_pineTallC_detailed.fbx
+  artifactKey: Guid(e8427ef3bdd51d84d8e155c26ba5b2b3) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/tree_pineTallC_detailed.fbx using Guid(e8427ef3bdd51d84d8e155c26ba5b2b3) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '608c00bc55255e7de3aaae6b0aab2ce2') in 0.0296586 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/tree_pineTallC.fbx
+  artifactKey: Guid(1cabefabfa52098488571ad38d976fc4) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/tree_pineTallC.fbx using Guid(1cabefabfa52098488571ad38d976fc4) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '8f29cd4ca7513c736a2cb622e942c024') in 0.01346 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/tree_pineDefaultB.fbx
+  artifactKey: Guid(2ab3e636d663b3b4e9d8963862a40a08) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/tree_pineDefaultB.fbx using Guid(2ab3e636d663b3b4e9d8963862a40a08) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '5bd29bd6879fa13212cafca4e09b88bc') in 0.0167942 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/tree_pineSmallB.fbx
+  artifactKey: Guid(43f7d988769df6e41bfd2d2c10862b54) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/tree_pineSmallB.fbx using Guid(43f7d988769df6e41bfd2d2c10862b54) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '6c1d96a6ff7dfe3b56f24a3d742c7191') in 0.0163694 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/tree_pineGroundA.fbx
+  artifactKey: Guid(522a0cdd2d668614f8d30655472a3397) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/tree_pineGroundA.fbx using Guid(522a0cdd2d668614f8d30655472a3397) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'f0e481cc2cb27a3e68e60a76b12dfe55') in 0.0157075 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/tree_detailed.fbx
+  artifactKey: Guid(ed451f30a39ba5740bbdad4d694c8f73) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/tree_detailed.fbx using Guid(ed451f30a39ba5740bbdad4d694c8f73) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '54884be5c3980841ae453c703ff9a667') in 0.0156222 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/tree_pineSmallC.fbx
+  artifactKey: Guid(d22983f34eb5c8c4c992b0f3c2c082ec) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/tree_pineSmallC.fbx using Guid(d22983f34eb5c8c4c992b0f3c2c082ec) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '8ac33245e128c4bc436ce59feab47078') in 0.0162982 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/tree_pineTallA.fbx
+  artifactKey: Guid(d7f5ef44850bf9841bd76b493c4a9aa9) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/tree_pineTallA.fbx using Guid(d7f5ef44850bf9841bd76b493c4a9aa9) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '42283af35d6d38824260b162fc38945d') in 0.0246991 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/raceCarWhite.fbx
+  artifactKey: Guid(772562c80f55b354684f709df2b80bd1) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/raceCarWhite.fbx using Guid(772562c80f55b354684f709df2b80bd1) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'd6d2580e52b15ba427a1e5f0a41210b7') in 0.0297744 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 32
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000059 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/overheadLights.fbx
+  artifactKey: Guid(e6a1d2c01329c9e479ae1d1e0c01f34a) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/overheadLights.fbx using Guid(e6a1d2c01329c9e479ae1d1e0c01f34a) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '553426ed1a946344a3e3ce9a1940ac47') in 0.0240709 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/pitsOfficeCorner.fbx
+  artifactKey: Guid(138619f338d18a442a980e66a0827062) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/pitsOfficeCorner.fbx using Guid(138619f338d18a442a980e66a0827062) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '3e7aff6eeb7aacb69101bdcb85a6505e') in 0.0227535 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/overheadRoundColored.fbx
+  artifactKey: Guid(2e8f03cc670a9f54f9079f093e95bba4) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/overheadRoundColored.fbx using Guid(2e8f03cc670a9f54f9079f093e95bba4) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'f199730fa4e9273193c6ad80d8f65fd5') in 0.017051 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/grandStandRound.fbx
+  artifactKey: Guid(510ead3148403514e85787ccf3abb79e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/grandStandRound.fbx using Guid(510ead3148403514e85787ccf3abb79e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '09fe7f4e7da57ddfc8f696c33cb74572') in 0.0236429 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/pitsGarageClosed.fbx
+  artifactKey: Guid(95544149a214af042a5de34383c8a797) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/pitsGarageClosed.fbx using Guid(95544149a214af042a5de34383c8a797) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '5b9974c74076e8f94610f221a4fd1898') in 0.0277864 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 13
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/raceCarRed.fbx
+  artifactKey: Guid(3f77d9283ff3b5f40a4ced1227f0559d) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/raceCarRed.fbx using Guid(3f77d9283ff3b5f40a4ced1227f0559d) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'ed41683c9192236d995089087a076133') in 0.0526053 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 33
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/pitsGarage.fbx
+  artifactKey: Guid(30df411ddfeb492409cb3ba81a0cc07c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/pitsGarage.fbx using Guid(30df411ddfeb492409cb3ba81a0cc07c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '3e626cd39c8e5437ca8447833a741612') in 0.0228648 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/raceCarGreen.fbx
+  artifactKey: Guid(c0e33cf5869278b4d87aacc9e1928db3) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/raceCarGreen.fbx using Guid(c0e33cf5869278b4d87aacc9e1928db3) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '2ac908f40278cbce1948881145613213') in 0.0314857 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 33
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/roadCornerLarger.fbx
+  artifactKey: Guid(a5dda521e4327cf4f838ecf5ebe6c467) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/roadCornerLarger.fbx using Guid(a5dda521e4327cf4f838ecf5ebe6c467) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '44191f13acf42f2249c7d7b35187d583') in 0.0182353 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/fenceCurved.fbx
+  artifactKey: Guid(dec9109bfeac6314a869ade5712e14ef) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/fenceCurved.fbx using Guid(dec9109bfeac6314a869ade5712e14ef) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '042157a56411402fca39072ad7580416') in 0.0145314 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/roadCornerBridgeLarge.fbx
+  artifactKey: Guid(ee77f478b3bfcd64c8d60cbe2a56b4d9) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/roadCornerBridgeLarge.fbx using Guid(ee77f478b3bfcd64c8d60cbe2a56b4d9) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '8ff710e0345e6b4bbc4f62eb3686f489') in 0.0207013 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/barrierRed.fbx
+  artifactKey: Guid(6f8e50a9f07280a4d96fd455daf2ac11) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/barrierRed.fbx using Guid(6f8e50a9f07280a4d96fd455daf2ac11) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'eed0d0fec0f687b69b75a54f6ada2af1') in 0.0184246 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/ramp.fbx
+  artifactKey: Guid(dc9afa3d5beea664a9d2398a0778c682) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/ramp.fbx using Guid(dc9afa3d5beea664a9d2398a0778c682) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'fc81ac5f423e7c4bcef04a2b21e44997') in 0.013977 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/billboardLower.fbx
+  artifactKey: Guid(e0321ca701abbeb4ca3bd03de7501666) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/billboardLower.fbx using Guid(e0321ca701abbeb4ca3bd03de7501666) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'd65bca6558ff73c8082d96e659eaf1f3') in 0.0215878 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 13
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/roadCornerLargeBorder.fbx
+  artifactKey: Guid(914ff548f4ee98c4c8d0497e1a812dc9) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/roadCornerLargeBorder.fbx using Guid(914ff548f4ee98c4c8d0497e1a812dc9) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '7dafbaa2dd2c35a956855dc2d2d6001c') in 0.0162771 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/tree_palmShort.fbx
+  artifactKey: Guid(701485bd11ba4514da3e39d6fe35f929) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/tree_palmShort.fbx using Guid(701485bd11ba4514da3e39d6fe35f929) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '6d157071fb2a97ed410f04159c39a4e0') in 0.0135813 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/roadCornerLargeBorderInner.fbx
+  artifactKey: Guid(a9023fb0cd7c0c54ba8d383ad771eced) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/roadCornerLargeBorderInner.fbx using Guid(a9023fb0cd7c0c54ba8d383ad771eced) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '2987d24c103166afa0d977c3b2cd40e5') in 0.0171157 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/pitsGarageCorner.fbx
+  artifactKey: Guid(499c90d5c2c01a34d889c6dfc38c5ae0) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/pitsGarageCorner.fbx using Guid(499c90d5c2c01a34d889c6dfc38c5ae0) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '458e99594c45e43fb91262e1b3284008') in 0.0236816 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/roadBump.fbx
+  artifactKey: Guid(59bc8a9b7982d4c418a7520606408611) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/roadBump.fbx using Guid(59bc8a9b7982d4c418a7520606408611) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '355061fd645b9945b7290e1ab34d604f') in 0.0184293 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/cliff_cornerLarge_stone.fbx
+  artifactKey: Guid(0f979fbd0f383b94dbb82ee5a1481cf8) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/cliff_cornerLarge_stone.fbx using Guid(0f979fbd0f383b94dbb82ee5a1481cf8) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '561f391965e41c31866b11d1d250174e') in 0.0296128 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/roadCurved.fbx
+  artifactKey: Guid(880c0ef89222277499a37fdae97e7621) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/roadCurved.fbx using Guid(880c0ef89222277499a37fdae97e7621) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'dbadc5d516eeeb093de6e536c915e80d') in 0.0202159 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/roadSplitRound.fbx
+  artifactKey: Guid(856c34d54795f674e873159c69d0c656) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/roadSplitRound.fbx using Guid(856c34d54795f674e873159c69d0c656) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '348a648aaa3f97a65d5ffe412821627d') in 0.0190938 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/roadCornerSmallBorder.fbx
+  artifactKey: Guid(e1de84351a89fc040bc9d68510ed05c7) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/roadCornerSmallBorder.fbx using Guid(e1de84351a89fc040bc9d68510ed05c7) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'b5f974adf112cf908a28de3f8471bf68') in 0.0193066 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/tentRoof.fbx
+  artifactKey: Guid(be8af50b605366c46a6254b30f2cf088) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/tentRoof.fbx using Guid(be8af50b605366c46a6254b30f2cf088) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c9d4cd32584528ada8b4780189fad329') in 0.0176931 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/roadStraightBridgeMid.fbx
+  artifactKey: Guid(1696d7d3615b94f4cb689a02c7d59c44) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/roadStraightBridgeMid.fbx using Guid(1696d7d3615b94f4cb689a02c7d59c44) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '080af708e9d9bc539c1dec827d173948') in 0.2120705 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/roadSide.fbx
+  artifactKey: Guid(fe3267bcb00004844871897fbd3137a6) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/roadSide.fbx using Guid(fe3267bcb00004844871897fbd3137a6) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '6e4a71b1189d8c1de06a48bfe3d4c958') in 0.0166458 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/roadStraightBridgeStart.fbx
+  artifactKey: Guid(295661126d5bce643a2a806827b26bf5) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/roadStraightBridgeStart.fbx using Guid(295661126d5bce643a2a806827b26bf5) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'a8dca1b382f302552ff815703b272fe2') in 0.0224501 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/treeLarge.fbx
+  artifactKey: Guid(fe3071a8255f42d448c5feb767a92b57) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/treeLarge.fbx using Guid(fe3071a8255f42d448c5feb767a92b57) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '7a0d5e9c856c3f9bb769c451f4bf50a6') in 0.0187713 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/tentLong.fbx
+  artifactKey: Guid(19eb5792088e59547a41482c433e347e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/tentLong.fbx using Guid(19eb5792088e59547a41482c433e347e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'e5f3084ccab107429d0306814b696273') in 0.0183036 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/roadPitEntry.fbx
+  artifactKey: Guid(40d42a6a6e0a7a24a8d0f00a81e07841) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/roadPitEntry.fbx using Guid(40d42a6a6e0a7a24a8d0f00a81e07841) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '7fdcc0f2cde219fc42cbf1b146199441') in 0.0205201 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/Textures/checkers.png
+  artifactKey: Guid(1d2b52cc012a4e4448d501375fc1eb4f) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/Textures/checkers.png using Guid(1d2b52cc012a4e4448d501375fc1eb4f) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '00f5064f8d48b6676505bc629dd499f7') in 0.0099401 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/tentClosed.fbx
+  artifactKey: Guid(6eef0497592f1db42b91359ef6901a22) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/tentClosed.fbx using Guid(6eef0497592f1db42b91359ef6901a22) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '23bed9c0d8f0c7fbffe4a3dd2910a4fb') in 0.0180302 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/roadCrossing.fbx
+  artifactKey: Guid(5410d88810c408c4e826235fabc649a8) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/roadCrossing.fbx using Guid(5410d88810c408c4e826235fabc649a8) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '2febe54fe7131b4edf46c5f622e437fa') in 0.024007 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/roadRamp.fbx
+  artifactKey: Guid(f08458919fa449441811f29a6d627b6f) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/roadRamp.fbx using Guid(f08458919fa449441811f29a6d627b6f) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '9fc2745dc158f17270bb4e04c9fb9249') in 0.0198638 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/roadSplitRoundLarge.fbx
+  artifactKey: Guid(dc0faa26967e296419a1a930eea7abac) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/roadSplitRoundLarge.fbx using Guid(dc0faa26967e296419a1a930eea7abac) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '97b419e7ee51d14c198c6b7fa2266a93') in 0.0200578 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/roadStraight.fbx
+  artifactKey: Guid(4243275ff5130a5438ef97223ee76672) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/roadStraight.fbx using Guid(4243275ff5130a5438ef97223ee76672) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '5f54f5faf117cf5b8c8af206771fcb64') in 0.0234554 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/roadCornerLargeWallInner.fbx
+  artifactKey: Guid(9361c75e4fb5b274ea1b28c457125698) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/roadCornerLargeWallInner.fbx using Guid(9361c75e4fb5b274ea1b28c457125698) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '48f4c630b2291ac79c9026fd50e3111b') in 0.0230098 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/roadStraightBridge.fbx
+  artifactKey: Guid(001048aded206794e9949808012a7ecc) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/roadStraightBridge.fbx using Guid(001048aded206794e9949808012a7ecc) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c892189b242036e0510c1b8a5cd63d45') in 0.0428662 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 11
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/roadRampLongWall.fbx
+  artifactKey: Guid(eea1b0b99cd36be4aaadd6bf90f1b950) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/roadRampLongWall.fbx using Guid(eea1b0b99cd36be4aaadd6bf90f1b950) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '0c2cb96304a556b27a946bc97d951eaa') in 0.0224985 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/roadCornerLargeWall.fbx
+  artifactKey: Guid(d6ef0d3db6d558a44a759703095882e9) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Racing Kit/roadCornerLargeWall.fbx using Guid(d6ef0d3db6d558a44a759703095882e9) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'ef3625e4d138fd9fb522fa8546b0e1f6') in 0.0219311 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/_Udemy Racer Assets/Materials/Grass.mat
+  artifactKey: Guid(fcd32975ea408d44dbca9730a3d844d8) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Materials/Grass.mat using Guid(fcd32975ea408d44dbca9730a3d844d8) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '143a394c4aa35f7dc930714b1a491503') in 0.0076319 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/fence_gate.fbx
+  artifactKey: Guid(aa2ec374358f1a740b622bd63f20b76e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/fence_gate.fbx using Guid(aa2ec374358f1a740b622bd63f20b76e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '3b094d063185f6845bbd76ea44b910a3') in 0.0277879 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/bridge_side_wood.fbx
+  artifactKey: Guid(9e5afa67f270b6d4287da09993803151) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/bridge_side_wood.fbx using Guid(9e5afa67f270b6d4287da09993803151) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'aa1dc3e7792313f168d0bec0564bbfa6') in 0.0232492 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/stone_smallA.fbx
+  artifactKey: Guid(d4b6b056941bdbd49918d8582e76382b) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/stone_smallA.fbx using Guid(d4b6b056941bdbd49918d8582e76382b) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '1d05c7a8caa3257d31d308feb83f5735') in 0.014564 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Personajes/materiales/HernanMtl1.mat
+  artifactKey: Guid(535875cec4cbf46488bac94d75edadef) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Personajes/materiales/HernanMtl1.mat using Guid(535875cec4cbf46488bac94d75edadef) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '46322ea101022c7412e38f0d1d49af20') in 0.0257281 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/_Udemy Racer Assets/Art/Car Preview/ambulance.png
+  artifactKey: Guid(2d2871cc13d262044bec9ce1992df33e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Art/Car Preview/ambulance.png using Guid(2d2871cc13d262044bec9ce1992df33e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '3db25a0c1b35140f796a273a9bf1beed') in 0.0173713 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/cliff_top_stone.fbx
+  artifactKey: Guid(f72a5acbdd8fcaf4d8ca6f9b4732b2eb) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/cliff_top_stone.fbx using Guid(f72a5acbdd8fcaf4d8ca6f9b4732b2eb) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '50f11b0e3c8e538829a46a3caa2e4949') in 0.0155961 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/rock_smallC.fbx
+  artifactKey: Guid(a80eff8aaf70d0d479beebf8812c6253) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/rock_smallC.fbx using Guid(a80eff8aaf70d0d479beebf8812c6253) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'e4ad31ad529270f8eeab4ebcac5aafc5') in 0.0179475 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/tree_cone_dark.fbx
+  artifactKey: Guid(1b78d8b36db70f747b802fa3330d1f2e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/tree_cone_dark.fbx using Guid(1b78d8b36db70f747b802fa3330d1f2e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '26ff006cc436a4f3b530647807152b73') in 0.0194849 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/tree_palm.fbx
+  artifactKey: Guid(b11d836c80c4fc7499f187e10ef5136e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/tree_palm.fbx using Guid(b11d836c80c4fc7499f187e10ef5136e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '4845c6666e1b8daaeac516f5564b4f33') in 0.0148102 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/tent_detailedOpen.fbx
+  artifactKey: Guid(311535dbecf155e42a7f202881ad8897) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Nature Kit/tent_detailedOpen.fbx using Guid(311535dbecf155e42a7f202881ad8897) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '4220151cc5996e4675d790cc52f1e779') in 0.022342 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/_Udemy Racer Assets/Models/Kenney/Car Kit/delivery.fbx
+  artifactKey: Guid(1ff1da4ccfbdb3e439cd364c0bfb7348) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/_Udemy Racer Assets/Models/Kenney/Car Kit/delivery.fbx using Guid(1ff1da4ccfbdb3e439cd364c0bfb7348) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '739c639880b5766228524450a399de7e') in 0.0483772 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 42
+
+========================================================================
+Received Import Request.
+  Time since last request: 718.454480 seconds.
+  path: Assets/_Udemy Racer Assets/Audio/Music/fight.ogg
+  artifactKey: Guid(e5fcdf3e1124df14b9f1a51de645877e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Udemy Racer Assets/Audio/Music/fight.ogg using Guid(e5fcdf3e1124df14b9f1a51de645877e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '45f35b11c9948f8d46913d05825b311f') in 0.1479284 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/_Udemy Racer Assets/Audio/Music/The Rush.mp3
+  artifactKey: Guid(aa10620942996a0418767e94e00f8c3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Udemy Racer Assets/Audio/Music/The Rush.mp3 using Guid(aa10620942996a0418767e94e00f8c3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'dfa9421b6fb102b6f8847c7549a40f21') in 0.3570205 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
