@@ -1,0 +1,5 @@
+# Unity generated folders
+/Library/
+/Temp/
+/Logs/
+/Build/

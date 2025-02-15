@@ -6,6 +6,7 @@ EditorUserSettings:
   serializedVersion: 4
   m_ConfigSettings:
     RecentlyUsedSceneGuid-0:
+<<<<<<< Updated upstream
       value: 5a08575f5207595a0f5d59741173094444164f7d7d2a23317c7a4465bbe1646d
       flags: 0
     RecentlyUsedSceneGuid-1:
@@ -16,6 +17,9 @@ EditorUserSettings:
       flags: 0
     RecentlyUsedSceneGuid-3:
       value: 0508565e57505d595b59587145725b4441161c2e7d2c7261757a4a30e0e2603a
+=======
+      value: 56005103010c0f5d545f0d2312770d474f4f41727a2b7e337f281f62b0e2666d
+>>>>>>> Stashed changes
       flags: 0
     vcSharedLogLevel:
       value: 0d5e400f0650
@@ -25,7 +29,11 @@ EditorUserSettings:
   m_VCDebugCmd: 0
   m_VCDebugOut: 0
   m_SemanticMergeMode: 2
+<<<<<<< Updated upstream
   m_DesiredImportWorkerCount: 3
+=======
+  m_DesiredImportWorkerCount: 2
+>>>>>>> Stashed changes
   m_StandbyImportWorkerCount: 2
   m_IdleImportWorkerShutdownDelay: 60000
   m_VCShowFailedCheckout: 1
@@ -36,3 +44,7 @@ EditorUserSettings:
   m_VCAllowAsyncUpdate: 1
   m_VCScanLocalPackagesOnConnect: 1
   m_ArtifactGarbageCollection: 1
+<<<<<<< Updated upstream
+=======
+  m_CompressAssetsOnImport: 1
+>>>>>>> Stashed changes
