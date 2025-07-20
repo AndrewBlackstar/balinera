@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "E:\\SENA\\Prototipo\\Balineras\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{73BFAB5C-AFF0-7714-3A72-82D033C12293}|Assembly-CSharp.csproj|e:\\sena\\prototipo\\balineras\\assets\\scripts\\uicontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{73BFAB5C-AFF0-7714-3A72-82D033C12293}|Assembly-CSharp.csproj|e:\\sena\\prototipo\\balineras\\assets\\scripts\\balineracontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73BFAB5C-AFF0-7714-3A72-82D033C12293}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\balineracontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73BFAB5C-AFF0-7714-3A72-82D033C12293}|Assembly-CSharp.csproj|E:\\SENA\\Prototipo\\Balineras\\assets\\scripts\\uicontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73BFAB5C-AFF0-7714-3A72-82D033C12293}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uicontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BalineraControl.cs",
+              "DocumentMoniker": "E:\\SENA\\Prototipo\\Balineras\\Assets\\scripts\\BalineraControl.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\BalineraControl.cs",
+              "ToolTip": "E:\\SENA\\Prototipo\\Balineras\\Assets\\scripts\\BalineraControl.cs",
+              "RelativeToolTip": "Assets\\scripts\\BalineraControl.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwCwAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T13:51:03.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "UIControl.cs",
               "DocumentMoniker": "E:\\SENA\\Prototipo\\Balineras\\Assets\\scripts\\UIControl.cs",
               "RelativeDocumentMoniker": "Assets\\scripts\\UIControl.cs",
@@ -26,8 +43,7 @@
               "RelativeToolTip": "Assets\\scripts\\UIControl.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T19:16:08.145Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-08T19:16:08.145Z"
             }
           ]
         }
