@@ -11,4 +11,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/HUD/Selection.unity
     guid: db39e966556333946bb4441e67bb4c07
+  - enabled: 1
+    path: Assets/Scenes/Pistas/Escenario Medellin.unity
+    guid: f9b82e4b674351d47add1d41837cbb4b
+  - enabled: 1
+    path: Assets/Scenes/Pistas/Manizales final.unity
+    guid: 2f72bcfe0d00a1145ae645bb694c20d0
+  - enabled: 1
+    path: Assets/Scenes/Pistas/Bogota race.unity
+    guid: 51eed9ff91aab42798986c8c2ab12b25
+  - enabled: 1
+    path: Assets/Scenes/HUD/PauseMenu.unity
+    guid: a639d88e6958ad24590b0434cd8f0154
   m_configObjects: {}
