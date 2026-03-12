@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{04243568-3330-B6D6-36EB-B0EA6C582104}</ProjectGuid>
+    <ProjectGuid>{7F5ABEAA-88FE-7A75-C768-78BAF6FBAF87}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Barmetler.RoadSystem.Runtime.Tests</AssemblyName>
@@ -943,7 +943,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Barmetler.RoadSystem.Runtime.csproj">
-      <Project>{8D4B4AD8-74C4-07AD-40E6-071F5A39E5B2}</Project>
+      <Project>{985BDAA3-7A01-14A7-ED60-F5950DA3669B}</Project>
       <Name>Barmetler.RoadSystem.Runtime</Name>
     </ProjectReference>
   </ItemGroup>

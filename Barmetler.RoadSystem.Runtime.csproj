@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace>Barmetler.RoadSystem</RootNamespace>
-    <ProjectGuid>{8D4B4AD8-74C4-07AD-40E6-071F5A39E5B2}</ProjectGuid>
+    <ProjectGuid>{985BDAA3-7A01-14A7-ED60-F5950DA3669B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Barmetler.RoadSystem.Runtime</AssemblyName>

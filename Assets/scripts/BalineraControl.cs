@@ -5,11 +5,10 @@ using UnityEngine.Rendering;
 
 public class BalineraControl : MonoBehaviour
 {
-
     [Header("Referencias")]
     private Rigidbody rb;
 
-    [Header("Parametros Movimiento")]
+    [Header("Parámetros de Movimiento")]
     public float pushForce = 50f;
     public float turnForce = 2f;
     public float brakeForce = 5f;
@@ -38,18 +37,18 @@ public class BalineraControl : MonoBehaviour
 
     private void HandleInput()
     {
-        //Impulso Manual
+        // Impulso manual
         if (Input.GetKeyDown(KeyCode.Space))
         {
             rb.AddForce(transform.forward * pushForce, ForceMode.Impulse);
             rb.maxAngularVelocity = 5f; // Limitar velocidad angular para evitar giros excesivos
         }
 
-        //giro izquierda/derecha
+        // Giro izquierda/derecha
         float horizontalInput = Input.GetAxis("Horizontal");
         rb.AddTorque(Vector3.up * horizontalInput * turnForce, ForceMode.Force);
 
-        //freno suave
+        // Freno suave
         isBraking = Input.GetKey(KeyCode.LeftShift);
     }
 

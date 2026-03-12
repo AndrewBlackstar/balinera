@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{73BFAB5C-AFF0-7714-3A72-82D033C12293}</ProjectGuid>
+    <ProjectGuid>{360E83EE-3A44-1497-C36E-224E1477A931}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -1255,11 +1255,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Barmetler.RoadSystem.Runtime.csproj">
-      <Project>{8D4B4AD8-74C4-07AD-40E6-071F5A39E5B2}</Project>
+      <Project>{985BDAA3-7A01-14A7-ED60-F5950DA3669B}</Project>
       <Name>Barmetler.RoadSystem.Runtime</Name>
     </ProjectReference>
     <ProjectReference Include="Barmetler.RoadSystem.Editor.csproj">
-      <Project>{0DC621B2-BAAF-C562-C508-483096F7DA25}</Project>
+      <Project>{85947C50-B942-0535-873E-0ABD46E2C02B}</Project>
       <Name>Barmetler.RoadSystem.Editor</Name>
     </ProjectReference>
   </ItemGroup>
